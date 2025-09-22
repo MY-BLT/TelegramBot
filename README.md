@@ -29,9 +29,11 @@ Usage of them is by calling not by sending message.
 >>> Using database sql to save the informations from the bot in the tables and by inserting them.
 >> #### Create table with more options in columns
 >>> Use the options like 
->>>- PRYMARY KEY, 
+>>> - PRYMARY KEY, 
 >>> - AUTO INCREMENT ...
 >> #### Insert and select in the table
 >>> Learn the way to **INSERT** the new info into the created table and the read some special fields by **SELECT**.
+>> #### Use the CRUD
+>>> - CREATE, UPDATE, DELETE
 ---
 ## Project
